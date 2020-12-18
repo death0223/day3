@@ -1,5 +1,4 @@
 package com.example.day3.anli.base;
-//FirstStudentBaseView
 public class FirstStudentBasePresenter<S extends FirstStudentBaseView> {
     public S iStudent;
 
